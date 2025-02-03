@@ -1,7 +1,6 @@
 # Hi There !👋
 
-## My name is Godsfriend Udofia 
-=========================================================================================================================================
+My name is Godsfriend Udofia 
 
 I am a Virtual Assistant. I am passionate about becoming a Data Analyst.
 ------------
