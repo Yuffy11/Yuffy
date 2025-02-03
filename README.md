@@ -11,9 +11,10 @@ I am a Virtual Assistant/Data Analyst. I am enthusiastic about learning and rese
 
 * 🌱 I'm looking to collaborate with other individuals who share interest in Data analytics and its related to profer business solutions 
 
-* ✉️  You can contact me at [udgodsfriend@gmail.com](mailto:udgodsfriend@gmail.com) 
-  
-* ⚡  I love watching movies, reading, and travelling
+
+# REACH ME HERE:
+ [udgodsfriend@gmail.com](mailto:udgodsfriend@gmail.com) 
+
 
 ### Skills
 
