@@ -1,17 +1,17 @@
 # Hi there !👋
 
-## My name is Godsfriend Udofia 
+## You are connecting with Godsfriend Udofia
 
-I am a Virtual Assistant/Data Analyst.
+I am a Virtual Assistant/Data Analyst. I am enthusiastic about learning and researching.
 ------------
 
-* 🧠 I'm currently learning Data Analysis and I am looking forward to working on personal projects!
+* 🧠 I'm currently working on projects to improve my skills and help me stay relevant in the Tech industry.
 
-* 🌱 I'm looking to collaborate with other Data Analyst to work on projects
+* I’m currently enhancing my skill in advanced Power BI | SQL | PYTHON | Tableau and lot more that concerns Data.
 
-* ✉️  You can contact me at [udgodsfriend@gmail.com](mailto:udgodsfriend@gmail.com)
+* 🌱 I'm looking to collaborate with other individuals who share interest in Data analytics and its related to profer business solutions 
 
-* 📔 2022 Goals: Improve my techical skills and become a certified Data Analyst 
+* ✉️  You can contact me at [udgodsfriend@gmail.com](mailto:udgodsfriend@gmail.com) 
   
 * ⚡  I love watching movies, reading, and travelling
 
