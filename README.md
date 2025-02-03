@@ -2,9 +2,10 @@
 
 ## You are connecting with Godsfriend Udofia
 
-I am a Virtual Assistant/data analyst. 
+### I am a Virtual Assistant/data analyst. 
 
-I'm enthusiastic about learning and research, enabling me to adapt to evolving business needs.
+
+* ⚡ I'm enthusiastic about learning and research, enabling me to adapt to evolving business needs.
 ------------
 
 * 🧠 I'm currently focused on improving my skills in advanced data analysis tools, including Power BI, SQL, Python, and Tableau. 
@@ -16,8 +17,8 @@ I'm enthusiastic about learning and research, enabling me to adapt to evolving b
 
 # CONNECT WITH ME HERE:
 
-### LinkedIn: [LinkedIn](https://www.linkedin.com/in/godsfriend-udofia/)
-### Email: [udgodsfriend@gmail.com](mailto:udgodsfriend@gmail.com) 
+### [LinkedIn](https://www.linkedin.com/in/godsfriend-udofia/)
+### [udgodsfriend@gmail.com](mailto:udgodsfriend@gmail.com) 
 
 
 ### Skills
