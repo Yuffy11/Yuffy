@@ -16,7 +16,7 @@ I'm enthusiastic about learning and research, enabling me to adapt to evolving b
 
 # CONNECT WITH ME HERE:
 
-### LinkedIn:[https://www.linkedin.com/in/godsfriend-udofia/]
+### LinkedIn: (https://www.linkedin.com/in/godsfriend-udofia/)
 ### Email: [udgodsfriend@gmail.com](mailto:udgodsfriend@gmail.com) 
 
 
