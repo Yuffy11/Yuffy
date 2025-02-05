@@ -4,9 +4,9 @@
 
 ### I am a Virtual Assistant/data analyst. 
 
+------------
 
 * ⚡ I'm enthusiastic about learning and research, enabling me to adapt to evolving business needs.
-------------
 
 * 🧠 I'm currently focused on improving my skills in advanced data analysis tools, including Power BI, SQL, Python, and Tableau. 
 
