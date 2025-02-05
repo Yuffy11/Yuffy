@@ -2,7 +2,7 @@
 
 ## You are connecting with Godsfriend Udofia
 
-### I am a Virtual Assistant/data analyst. 
+### I am a Virtual Assistant/Data Analyst. 
 
 ------------
 
